@@ -1,0 +1,4 @@
+export const ADD_CART = "ADD_CART";
+export const SHOW_DETAIL = "SHOW_DETAIL";
+export const INCREASE_DECREASE = "INCREASE_DECREASE";
+export const DELETE_PRODUCT_MODAL = "DELETE_PRODUCT_MODAL";
